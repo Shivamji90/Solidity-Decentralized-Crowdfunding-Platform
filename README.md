@@ -243,4 +243,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This smart contract is provided for educational and development purposes. Always conduct thorough testing and security audits before deploying to mainnet with real funds
 
-![image](https://github.com/user-attachments/assets/8c72e948-fa56-4a76-991a-55db52384cdf)
+![image](https://github.com/user-attachments/assets/b7514aac-b06e-4b87-819e-41a011336577)
+
